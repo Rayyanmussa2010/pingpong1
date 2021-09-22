@@ -1,0 +1,17 @@
+body
+{
+text-align: center;
+}
+
+.heading{
+width: 80%;
+}
+
+.heading button{
+float: right;
+margin-top: 10px;
+}
+
+.heading h3{
+float: left;
+}
